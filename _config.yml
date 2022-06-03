@@ -1,4 +1,4 @@
-source: psutton1179a/psutton-ghpages-spike
+repository: psutton1179a/psutton-ghpages-spike
 destination: ./_site
 
 output: web
