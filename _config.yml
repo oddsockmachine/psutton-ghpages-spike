@@ -10,6 +10,14 @@ topnav_title: Testing
 site_title: Testing
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
+google_analytics: 
+
+host: 127.0.0.1
+# the preview server used. Leave as is.
+
+port: 4000
+# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
+
 exclude:
   - .idea/
   - .gitignore
