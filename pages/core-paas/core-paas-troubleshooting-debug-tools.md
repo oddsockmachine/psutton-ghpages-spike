@@ -1,3 +1,9 @@
+---
+title: Debug Tools 
+sidebar: core-paas_sidebar
+permalink: core-paas-troubleshooting-debug-tools.html
+folder: core-paas
+---
 # Debug Tools
 
 In production we want our containers to be as small as possible to ensure fastest startup time and lowest disk use.

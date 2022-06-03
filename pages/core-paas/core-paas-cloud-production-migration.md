@@ -1,3 +1,9 @@
+---
+title: Production Migration Process
+sidebar: core-paas_sidebar
+permalink: core-paas-cloud-production-migration.html
+folder: core-paas
+---
 # Production Migration Process
 This doc outlines the process for getting your application running on production.
 The doc uses us prod as an example but the same steps apply for prod-eu.

@@ -1,3 +1,9 @@
+---
+title: Container Filesystem
+sidebar: core-paas_sidebar
+permalink: core-paas-cloud-filesystem.html
+folder: core-paas
+---
 # Container Filesystem
 
 If an application needs to write files inside the container, it will need to create an [`emptyDir` volume](#emptydir-volumes).

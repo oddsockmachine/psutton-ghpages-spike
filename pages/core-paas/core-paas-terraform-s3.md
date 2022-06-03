@@ -1,3 +1,9 @@
+---
+title: S3 - Terraform best practices
+sidebar: core-paas_sidebar
+permalink: core-paas-terraform-s3.html
+folder: core-paas
+---
 # S3 - Terraform best practices
 
 Here is an example of how to create an s3 bucket. The example includes how an IAM user might authenticate with the bucket. Please research the exact IAM permissions your user will use. This is only meant to be a guide:

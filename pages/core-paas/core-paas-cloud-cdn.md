@@ -1,3 +1,9 @@
+---
+title: CDN Static Assets
+sidebar: core-paas_sidebar
+permalink: core-paas-cloud-cdn.html
+folder: core-paas
+---
 # CDN Static Assets
 
 ## Quickstart

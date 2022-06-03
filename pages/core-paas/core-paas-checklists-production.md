@@ -1,3 +1,9 @@
+---
+title: Production Ready Checklist
+sidebar: core-paas_sidebar
+permalink:  core-paas-checklists-production.html
+folder: core-paas
+---
 # Production Ready Checklist
 
 Core PaaS production ready checklist contains all the prerequisites required to deploy an application all the way to production.

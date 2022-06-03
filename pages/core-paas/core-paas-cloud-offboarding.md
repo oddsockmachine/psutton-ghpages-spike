@@ -1,3 +1,9 @@
+---
+title: How to remove a service from production
+sidebar: core-paas_sidebar
+permalink:  core-paas-cloud-offboarding.html
+folder: core-paas
+---
 # How to remove a service from production
 
 This is an attempt to track every step for removing a service from production.

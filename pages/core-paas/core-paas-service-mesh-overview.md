@@ -1,3 +1,9 @@
+---
+title: Istio
+sidebar: core-paas_sidebar
+permalink: core-paas-service-mesh-overview.html
+folder: core-paas
+---
 # Istio
 
 ## What is Istio?

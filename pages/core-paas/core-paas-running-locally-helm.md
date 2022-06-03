@@ -1,3 +1,10 @@
+---
+title: Helm
+sidebar: core-paas_sidebar
+permalink: core-paas-running-locally-helm.html
+folder: core-paas
+---
+
 # Helm
 [Helm](https://helm.sh/) is the best way to find, share, and use software built for Kubernetes.
 We use it as a templating engine and as the application installer.

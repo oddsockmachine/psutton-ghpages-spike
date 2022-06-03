@@ -1,3 +1,10 @@
+---
+title: Manual E2E tests
+sidebar: core-paas_sidebar
+permalink: core-paas-cloud-manual-e2e.html
+folder: core-paas
+---
+
 # Manual E2E tests
 
 It's been a [long journey](#timeline) to implement reliable auto-rollback

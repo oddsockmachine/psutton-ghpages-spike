@@ -1,3 +1,9 @@
+---
+title: Production Migration Process
+sidebar: core-paas_sidebar
+permalink: core-paas-monitoring-newrelic.html
+folder: core-paas
+---
 # New Relic
 
 ## Install the APM agent in your application

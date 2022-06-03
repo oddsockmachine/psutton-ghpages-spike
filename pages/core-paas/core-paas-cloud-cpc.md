@@ -1,3 +1,9 @@
+---
+title: Core-PaaS-Client
+sidebar: core-paas_sidebar
+permalink: core-paas-cloud-cpc.html
+folder: core-paas
+---
 # Core-PaaS-Client
 Core-Paas-Client (CPC) can be used to deploy via jenkins.
 

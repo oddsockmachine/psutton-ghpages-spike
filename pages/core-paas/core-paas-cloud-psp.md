@@ -1,3 +1,9 @@
+---
+title: Pod Security
+sidebar: core-paas_sidebar
+permalink: core-paas-cloud-psp.html
+folder: core-paas
+---
 # Pod Security
 
 PodSecurityPolicies (PSPs) are one method by which kubernetes authorizes Pods

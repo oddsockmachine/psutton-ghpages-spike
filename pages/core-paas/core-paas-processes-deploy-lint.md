@@ -1,3 +1,9 @@
+---
+title: ELB Logs
+sidebar: core-paas_sidebar
+permalink: core-paas-processes-deploy-lint.html
+folder: core-paas
+---
 # Detecting Bugs Automatically
 
 ## Motivation

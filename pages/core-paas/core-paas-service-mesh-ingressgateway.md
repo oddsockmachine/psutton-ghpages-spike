@@ -1,3 +1,9 @@
+---
+title: Istio Ingress Gateway 
+sidebar: core-paas_sidebar
+permalink: core-paas-service-mesh-ingressgateway.html
+folder: core-paas
+---
 # Istio Ingress Gateway
 
 ## Overview

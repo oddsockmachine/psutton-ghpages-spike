@@ -1,3 +1,9 @@
+---
+title: Terraform & Core PaaS Migration
+sidebar: core-paas_sidebar
+permalink: core-paas-terraform-migration.html
+folder: core-paas
+---
 # Terraform & Core PaaS Migration
 
 ## Migrating from the X environments

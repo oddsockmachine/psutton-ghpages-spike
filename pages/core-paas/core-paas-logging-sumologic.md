@@ -1,3 +1,9 @@
+---
+title: Sumo Logic
+sidebar: core-paas_sidebar
+permalink: core-paas-logging-sumologic.html
+folder: core-paas
+---
 # Sumo Logic
 
 The [kubernetes

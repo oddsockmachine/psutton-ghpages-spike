@@ -1,3 +1,9 @@
+---
+title: RDS - Terraform best practices
+sidebar: core-paas_sidebar
+permalink: core-paas-terraform-rds.html
+folder: core-paas
+---
 # RDS - Terraform best practices
 
 Here are the best practices we recommend when creating and RDS instance from within our Kubernetes AWS accounts. To retrieve the randomly generated password, please contact a member of the Core PaaS team and we will retrieve it from the vault. We are working on a better way of handling these secrets. Please *do not* create DNS entries for these endpoints as we will want to migrate to use TLS in the future.

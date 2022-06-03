@@ -1,3 +1,9 @@
+---
+title: Service Broker Prerequisites
+sidebar: core-paas_sidebar
+permalink: core-paas-brokers-tooling.html
+folder: core-paas
+---
 # Service Broker Prerequisites
 
 This page outlines the tooling required to interact with Service Brokers. This

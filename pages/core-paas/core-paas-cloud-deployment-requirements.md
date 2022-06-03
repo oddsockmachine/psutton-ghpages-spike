@@ -1,3 +1,9 @@
+---
+title: Requirements for Deploying with Core PaaS
+sidebar: core-paas_sidebar
+permalink: core-paas-cloud-deployment-requirements.html
+folder: core-paas
+---
 # Requirements for Deploying with Core PaaS
 
 For deploying your application with Core PaaS, the following contracts must be met.
