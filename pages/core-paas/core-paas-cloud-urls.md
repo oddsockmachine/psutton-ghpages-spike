@@ -1,3 +1,9 @@
+---
+title: URLs
+sidebar: core-paas_sidebar
+permalink: core-paas-cloud-urls.html
+folder: core-paas
+---
 # URLs
 There are two different url types you can use when in the Kubernetes environments.
 

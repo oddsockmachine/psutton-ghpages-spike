@@ -1,3 +1,9 @@
+---
+title:  Network Layout
+sidebar: core-paas_sidebar
+permalink:  core-paas-networking-layout.html
+folder: core-paas
+---
 # Network Layout
 
 ### US

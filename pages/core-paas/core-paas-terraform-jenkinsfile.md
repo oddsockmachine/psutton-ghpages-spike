@@ -1,3 +1,9 @@
+---
+title: Jenkinsfile for `K*` envs Terraform deployments
+sidebar: core-paas_sidebar
+permalink: core-paas-terraform-jenkinsfile.html
+folder: core-paas
+---
 # Jenkinsfile for `K*` envs Terraform deployments
 
 Here is an example of a `Jenkinsfile` required to create infrastructure within the Kuberenetes AWS environments

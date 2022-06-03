@@ -1,3 +1,9 @@
+---
+title: Service Brokers
+sidebar: core-paas_sidebar
+permalink: core-paas-brokers-core-paas-overview.html
+folder: core-paas
+---
 # Service Brokers
 
 ## Background

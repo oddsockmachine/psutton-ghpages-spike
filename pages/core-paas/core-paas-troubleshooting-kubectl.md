@@ -1,3 +1,9 @@
+---
+title: Using Kubectl 
+sidebar: core-paas_sidebar
+permalink: core-paas-troubleshooting-kubectl.html
+folder: core-paas
+---
 # Using Kubectl
 kubectl is how we interact with the kubernetes clusters.
 

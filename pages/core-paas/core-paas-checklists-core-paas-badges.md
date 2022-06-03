@@ -1,3 +1,9 @@
+---
+title: Core PaaS Badges
+sidebar: core-paas_sidebar
+permalink:  core-paas-checklists-core-paas-badges.html
+folder: core-paas
+---
 # Core PaaS Badges
 
 This document outlines the contract that Core PaaS provides teams and the rules that they need to follow run successfully.

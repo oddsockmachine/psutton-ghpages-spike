@@ -1,3 +1,9 @@
+---
+title: Jenkins Functions
+sidebar: core-paas_sidebar
+permalink: core-paas-cloud-jenkins-functions.html
+folder: core-paas
+---
 # Jenkins Functions
 Looking to get onto kubernetes but switching to [Valkyr](https://github.com/mulesoft/valkyr) is too much of a risk? This is the way for you then!
 

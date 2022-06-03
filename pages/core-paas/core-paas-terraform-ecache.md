@@ -1,3 +1,9 @@
+---
+title: ElasticCache (Redis) - Terraform best practices
+sidebar: core-paas_sidebar
+permalink: core-paas-terraform-ecache.html
+folder: core-paas
+---
 # ElasticCache (Redis) - Terraform best practices
 
 Here is an example to create a Redis instance within the Kubernetes AWS accounts. Please *do not* create DNS entries for these endpoints as we will want to migrate to use TLS in the future.

@@ -1,3 +1,9 @@
+---
+title: Run the App in KIND
+sidebar: core-paas_sidebar
+permalink: core-paas-running-locally-run-in-kind.html
+folder: core-paas
+---
 # Run the App in KIND
 
 [`kind`](https://kind.sigs.k8s.io/) (**K**ubernetes **In** **D**ocker) is a tool like `minikube` for running Kubernetes locally.

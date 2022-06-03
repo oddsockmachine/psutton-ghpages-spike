@@ -1,3 +1,9 @@
+---
+title:  PagerDuty 
+sidebar: core-paas_sidebar
+permalink: core-paas-troubleshooting-faqs.html
+folder: core-paas
+---
 # PagerDuty
 
 ## requests_too_low

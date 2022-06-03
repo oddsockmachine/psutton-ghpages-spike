@@ -1,3 +1,9 @@
+---
+title: IAM Role Service Broker 
+sidebar: core-paas_sidebar
+permalink: core-paas-brokers-core-paas-iam.html
+folder: core-paas
+---
 # IAM Role Service Broker 
 
 ## Overview

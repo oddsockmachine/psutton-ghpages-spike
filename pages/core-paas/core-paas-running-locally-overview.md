@@ -1,3 +1,10 @@
+---
+title: Dockerfile
+sidebar: core-paas_sidebar
+permalink: core-paas-running-locally-overview.html
+folder: core-paas
+---
+
 # Step 1: Running Locally
 
 Before you start, we recommend checking out our [Kilonova/Valkyr documentation](https://kilonova.kbuild.msap.io/valkyr/started.html). Using it will make your Dockerfile much simpler.

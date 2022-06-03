@@ -54,4 +54,191 @@ entries:
         - title: Provisioning
           url: /core-paas-access-provision.html
           output: web, pdf
+
+  - title: Core-Paas Running locally
+    output: web, pdf
+    folderitems:
+
+        - title: Dockerfiles
+          url: /core-paas-running-locally-overview.html
+          output: web, pdf
+
+        - title: Helm
+          url: /core-paas-running-locally-helm.html
+          output: web, pdf
+
+        - title: Run the app in KIND
+          url: /core-paas-running-locally-run-in-kind.html
+          output: web, pdf
+
+  - title: Core-Paas Running in the cloud
+    output: web, pdf
+    folderitems:
         
+        - title: Deployment Requirments
+          url: /core-paas-cloud-deployment-requirements.html
+          output: web, pdf
+
+        - title: Jenkins Functions
+          url: /core-paas-cloud-jenkins-functions.html
+          output: web, pdf
+
+        - title: CPC
+          url: /core-paas-cloud-cpc.html
+          output: web, pdf
+        
+        - title: Local Filesystems
+          url: /core-paas-cloud-filesystem.html
+          output: web, pdf
+
+        - title: URLs to access service
+          url: /core-paas-cloud-urls.html
+          output: web, pdf
+
+        - title: Pod Security
+          url: /core-paas-cloud-psp.html
+          output: web, pdf
+
+        - title: CDN Static Assets
+          url: /core-paas-cloud-cdn.html
+          output: web, pdf
+
+        - title: Running the deprecated Jenkins e2e tesets
+          url: /core-paas-cloud-manual-e2e.html
+          output: web, pdf
+
+  - title: Core-Paas Production Migration
+    output: web, pdf
+    folderitems:
+
+        - title: Core-Paas Production Migration
+          url: /core-paas-cloud-production-migration.html
+          output: web, pdf
+
+  - title: Core-Paas Operations excellence
+    output: web, pdf
+    folderitems:
+
+        - title: New Relic
+          url: /core-paas-monitoring-newrelic.html
+          output: web, pdf
+
+        - title: SumoLogic
+          url: /core-paas-logging-sumologic.html
+          output: web, pdf
+
+        - title: ELB Logs
+          url: /core-paas-logging-elb.html
+          output: web, pdf
+
+        - title: Deploy-Time Warnings
+          url: /core-paas-processes-deploy-lint.html
+          output: web, pdf
+
+  - title: Core-Paas Terraform in the K* environments
+    output: web, pdf
+    folderitems:
+
+        - title: Migration
+          url: /core-paas-terraform-migration.html
+          output: web, pdf
+
+        - title: Jenkinsfile
+          url: /core-paas-terraform-jenkinsfile.html
+          output: web, pdf
+
+        - title: RDS
+          url: /core-paas-terraform-rds.html
+          output: web, pdf
+        
+        - title: ElasticCache
+          url: /core-paas-terraform-ecache.html
+          output: web, pdf
+
+        - title: S3
+          url: /core-paas-terraform-s3.html
+          output: web, pdf
+
+  - title: Core-Paas Service Brokers
+    output: web, pdf
+    folderitems:
+
+        - title: Overview
+          url: /core-paas-brokers-core-paas-overview.html
+          output: web, pdf
+
+        - title: Prerequisities
+          url: /core-paas-brokers-tooling.html
+          output: web, pdf
+        
+        - title: IAM Role Broker
+          url: /core-paas-brokers-core-paas-iam.html
+          output: web, pdf
+
+  - title: Core-Paas Istio
+    output: web, pdf
+    folderitems:
+
+        - title: Overview
+          url: /core-paas-service-mesh-overview.html
+          output: web, pdf
+        
+        - title: Ingress Gateway
+          url: /core-paas-service-mesh-ingressgateway.html
+          output: web, pdf
+  
+  - title: Core-Paas Troubleshooting
+    output: web, pdf
+    folderitems:
+
+        - title: Kubectl
+          url: /core-paas-troubleshooting-kubectl.html
+          output: web, pdf
+
+        - title: Debugging Pods
+          url: /core-paas-troubleshooting-debug-tools.html
+          output: web, pdf
+        
+        - title: FAQs
+          url: /core-paas-troubleshooting-faqs.html
+          output: web, pdf
+
+  - title: Core-Paas Offboarding
+    output: web, pdf
+    folderitems:
+
+        - title: Offboarding
+          url: /core-paas-cloud-offboarding.html
+          output: web, pdf
+
+  - title: Core-Paas Production Ready Checklist
+    output: web, pdf
+    folderitems:
+
+        - title: Production Ready Checklist
+          url: /core-paas-checklists-production.html
+          output: web, pdf
+  
+  - title: Core-Paas Production Badges
+    output: web, pdf
+    folderitems:
+
+        - title: Production Badges
+          url: /core-paas-checklists-core-paas-badges.html
+          output: web, pdf
+
+  - title: Core-Paas Networking
+    output: web, pdf
+    folderitems:
+
+        - title: Networking
+          url: /core-paas-networking-layout.html
+          output: web, pdf
+  
+  - title: Core-Paas Glossary
+    output: web, pdf
+    folderitems:
+
+        - title: Glossary
+          url: /core-paas-extra-glossary.html
+          output: web, pdf
