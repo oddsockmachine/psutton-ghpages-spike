@@ -1,6 +1,4 @@
 repository: psutton1179a/psutton-ghpages-spike
-baseurl: ""
-url: "https://psutton1179a.github.io"
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -91,7 +89,8 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 # needed for sitemap.xml file only
 # url: http://idratherbewriting.com
 # baseurl: /psutton-ghpages-spike
-
+baseurl: "/psutton-ghpages-spike"
+url: "https://psutton1179a.github.io"
 
 github: [metadata]
 
