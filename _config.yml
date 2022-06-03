@@ -1,5 +1,6 @@
 repository: psutton1179a/psutton-ghpages-spike
-destination: ./_site
+baseurl: ""
+url: "https://psutton1179a.github.io"
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
